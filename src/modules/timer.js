@@ -1,4 +1,5 @@
 const timer = (deadline) => {
+  //
   // const daysVal = document.querySelector('.count_1 > span');
   // const hoursVal = document.querySelector('.count_2 > span');
   // const minutesVal = document.querySelector('.count_3 > span');
